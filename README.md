@@ -15,7 +15,7 @@ Agradeço por visitar meu repositório, este tema foi feito com muito amor e car
 
 ## Como faço para instalar?
 
-Você pode encontrar ele na loja de extensões pelo link [aqui](https://marketplace.visualstudio.com/items?itemName=AninhaPardini), você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
+Você pode encontrar ele na loja de extensões pelo link [aqui](https://marketplace.visualstudio.com/items?itemName=AninhaPardini.coffee-break-theme), você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
 
 <section align="center">
   <img src="/icons/coffee-break-icon.png"/>
