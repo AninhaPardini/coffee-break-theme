@@ -1,0 +1,32 @@
+{
+  "name": "coffee-break-theme",
+  "displayName": "Coffee Break Theme",
+  "description": "A beatiful coffee theme for your codes ",
+  "publisher": "AninhaPardini",
+  "version": "1.0.0",
+  "icon": "icons/coffee-break-icon.png",
+  "author": {
+    "name": "Ana Pardini",
+    "email": "aninhapardini.contato@gmail.com",
+    "url": "https://blog-chi-mocha.vercel.app/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AninhaPardini/coffee-break-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "day",
+        "uiTheme": "vs",
+        "path": "./themes/day-color-theme.json"
+      }
+    ]
+  }
+}
