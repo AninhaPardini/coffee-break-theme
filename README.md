@@ -9,18 +9,14 @@
 
 ------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/atmus-tecnologia/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atmus.tecnologia)
-[![Site](https://img.shields.io/badge/Nosso-Site-6366F1?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://atmustalk.com.br/app/dashboard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
 
-Esse tema foi feito por uma estágiaria, por favor não nos julgue, a sociedade já fa isso por você 🤝
+Agradeço por visitar meu repositório, este tema foi feito com muito amor e carinho para os amantes de café.
 
 ## Como faço para instalar?
 
-Você pode encontrar ele na loja de extensões pelo link [aqui](https://marketplace.visualstudio.com/items?itemName=AninhaPardini.atmustalk-theme), você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
-
+Você pode encontrar ele na loja de extensões pelo link [aqui](https://marketplace.visualstudio.com/items?itemName=AninhaPardini), você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
 
 <section align="center">
   <img src="/icons/coffee-break-icon.png"/>
 </section>
-
