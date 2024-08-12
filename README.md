@@ -21,6 +21,6 @@ Você pode encontrar ele na loja de extensões pelo link [aqui](https://marketpl
 
 
 <section align="center">
-  <img src="https://github.com/AninhaPardini/images-for-github/blob/main/atmustalk-only-logo.png?raw=true"/>
+  <img src="/icons/coffee-break-icon.png"/>
 </section>
 
